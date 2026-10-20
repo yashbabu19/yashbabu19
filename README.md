@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Yash 👋
 
-<!--
-**yashbabu19/yashbabu19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | API Engineering | Java & Spring Boot**
 
-Here are some ideas to get you started:
+I enjoy building backend services and exploring how APIs can be designed, secured, validated, and operated reliably at scale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus Areas
+- Java and Spring Boot
+- REST APIs and microservices
+- API gateways, routing, authentication and rate limiting
+- PostgreSQL and API integrations
+- Automated testing and CI/CD
+
+### What I'm Building
+🚧 **GatewayLens** — an open-source toolkit for validating API specifications and gateway policies before deployment.
+
+### Engineering Interests
+API security • Distributed systems • Observability • Developer tooling
+
+### Find Me
+- [GitHub](https://github.com/yashbabu19)
+- [LinkedIn](https://www.linkedin.com/in/yash-b-8284251a9/?isSelfProfile=true)
+
+*Building, learning, and documenting one project at a time.*
