@@ -1,24 +1,37 @@
-# Hey, I'm Yash 👋
+# Hey, I'm Yash Babu 👋
 
-**Software Engineer | API Engineering | Java & Spring Boot**
+**Software Development Engineer II · Java & Spring Boot · API Platforms**
 
-I enjoy building backend services and exploring how APIs can be designed, secured, validated, and operated reliably at scale.
+I build backend services and developer tools, with a particular interest in reliable APIs, distributed systems, and the operational details that make software dependable.
 
-### Focus Areas
-- Java and Spring Boot
-- REST APIs and microservices
-- API gateways, routing, authentication and rate limiting
-- PostgreSQL and API integrations
-- Automated testing and CI/CD
+## What I'm focused on
 
-### What I'm Building
-🚧 **GatewayLens** — an open-source toolkit for validating API specifications and gateway policies before deployment.
+- Java and Spring Boot services
+- REST APIs, microservices, and API gateway engineering
+- OpenAPI contracts, validation, and developer tooling
+- PostgreSQL, SQL, automated testing, and Docker
+- Reliability patterns: idempotency, concurrency, retries, and observability
 
-### Engineering Interests
-API security • Distributed systems • Observability • Developer tooling
+## Open-source projects
 
-### Find Me
-- [GitHub](https://github.com/yashbabu19)
-- [LinkedIn](https://www.linkedin.com/in/yash-b-8284251a9/?isSelfProfile=true)
+### [GatewayLens](https://github.com/yashbabu19/gatewaylens)
+A Java CLI for deterministic OpenAPI contract checks, helping surface API specification issues before onboarding or deployment. It produces actionable findings and supports machine-readable reporting.
 
-*Building, learning, and documenting one project at a time.*
+**Stack:** Java · OpenAPI · Maven · CLI
+
+### [Reliant](https://github.com/yashbabu19/reliant)
+An early-stage distributed job execution project. Its current working slice accepts jobs over a Spring Boot REST API and persists their job type, JSONB payload, and `QUEUED` status in PostgreSQL. Idempotent submission, worker execution, retries, and crash recovery are planned next.
+
+**Stack:** Java 21 · Spring Boot · PostgreSQL · JDBC · Docker Compose
+
+## Experience
+
+My professional work includes backend services, API onboarding, traffic controls, integrations, production support, and automation. Public project write-ups focus on transferable engineering lessons and avoid proprietary details.
+
+## Find me
+
+- [Portfolio](https://yashbabu19.github.io/)
+- [GitHub repositories](https://github.com/yashbabu19?tab=repositories)
+- [LinkedIn](https://www.linkedin.com/in/yash-b-8284251a9/)
+
+*Building in public, learning deliberately, and shipping one useful improvement at a time.*
